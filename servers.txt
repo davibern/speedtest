@@ -1,0 +1,11 @@
+Retrieving speedtest.net configuration...
+8149) Antisa Telecom (Alange, Spain) [278.69 km]
+65001) WIFI NAVAS (Bienvenida, Spain) [314.86 km]
+35992) DifferNET (Alcalá del Río, Spain) [372.57 km]
+47363) Vodafone Portugal (Porto, Portugal) [420.27 km]
+62812) NOWO (Palmela, Portugal) [487.68 km]
+60452) DIGI (Lisbon, Portugal) [503.83 km]
+52533) Virtual Technologies and Solutions (Lisbon, Portugal) [503.83 km]
+29467) Edgoo Networks (Lisbon, Portugal) [503.83 km]
+48096) ONI Telecom (Lisbon, Portugal) [503.83 km]
+52110) MUNICÍPIO DE PORTIMÃO (Portimão, Portugal) [551.34 km]
